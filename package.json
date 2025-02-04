@@ -1,0 +1,15 @@
+{
+  "name": "project_2_bookstoreapi",
+  "version": "1.0.0",
+  "description": "book store backend",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app"
+  },
+  "author": "AMARQf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "joi": "^17.13.3"
+  }
+}
